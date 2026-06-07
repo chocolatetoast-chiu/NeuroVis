@@ -91,3 +91,8 @@ Edit `MODEL_ARCHITECTURES` in `utils.jsx` — each model is a JSON structure wit
 ## License
 
 MIT
+
+## Contact
+
+Sheng-Chieh Chiu, Ph.D.
+scchiu.phd@gmail.com
