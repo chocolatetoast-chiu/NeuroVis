@@ -1,0 +1,21 @@
+# NeuroVis - Brain AI Model Viewer
+# Pure frontend, no build step needed
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Uploaded data (keep local)
+uploads/
+data/
+*.nii
+*.nii.gz
+*.npy
+*.h5
